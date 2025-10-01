@@ -12,7 +12,6 @@ Hi there, I'm Yonas Yirgu 👋
 
 📚 **Currently Learning**  
 - 🚀 Advanced Full-Stack Development  
-- 📈 Forex Trading Strategies and Smart Money Concepts  
 - 🖥️ Java Multithreading, JDBC, Swing/JavaFX GUI  
 
 ---
