@@ -34,12 +34,7 @@ Hi there, I'm Yonas Yirgu 👋
 📫 **How to Reach Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonasyirgu)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yonasyirgu)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonasyirgu@example.com)  
-
----
-
-😄 **Pronouns**  
-He/Him  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonasyirgu718@gmail.com)  
 
 ---
 
@@ -47,17 +42,6 @@ He/Him
 - I love creating digital solutions that simplify real-life problems  
 - ☕ Coffee fuels my coding marathons  
 - Fascinated by financial markets and trading psychology  
-
----
-
-🛠️ **Tech Stack & Skills**  
-
-**PHP**        ![PHP](https://progress-bar.dev/80/?title=PHP)  
-**Java**       ![Java](https://progress-bar.dev/90/?title=Java)  
-**Python**     ![Python](https://progress-bar.dev/80/?title=Python)  
-**JavaScript** ![JavaScript](https://progress-bar.dev/80/?title=JavaScript)  
-**SQL**        ![SQL](https://progress-bar.dev/90/?title=SQL)  
-**HTML/CSS**   ![HTML/CSS](https://progress-bar.dev/95/?title=HTML%2FCSS)  
 
 ---
 
